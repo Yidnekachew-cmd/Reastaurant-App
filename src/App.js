@@ -2,7 +2,6 @@ import React from "react";
 import {
 	AboutUs,
 	Chef,
-	FindUs,
 	Footer,
 	Gallery,
 	Header,
@@ -10,6 +9,8 @@ import {
 	Laurels,
 	SpecialMenu,
 } from "./container";
+
+import FindUs from "./container/FindUs/FindUs";
 import { Navbar } from "./components";
 import "./App.css";
 
