@@ -78,5 +78,5 @@ const awards = [
 		subtitle: "Lorem ipsum dolor sit amet, consectetur.",
 	},
 ];
-
+ // eslint-disable-next-line
 export default { wines, cocktails, awards };
