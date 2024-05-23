@@ -10,9 +10,10 @@ import {
 	SpecialMenu,
 } from "./container";
 
-import FindUs from "./container/FindUs/FindUs";
+
 import { Navbar } from "./components";
 import "./App.css";
+import FindUs from "./container/FindUs/FindUs";
 
 const App = () => (
 	<div>
