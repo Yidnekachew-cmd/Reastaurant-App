@@ -1,8 +1,8 @@
 import React from "react";
 
-import "./MenuItem.css";
+import "./MenuList.css";
 
-const MenuItem = ({ title, price, tags }) => (
+const MenuList = ({ title, price, tags }) => (
 	<div className="app__menuitem">
 		<div className="app__menuitem-head">
 			<div className="app__menuitem-name">
@@ -24,4 +24,4 @@ const MenuItem = ({ title, price, tags }) => (
 	</div>
 );
 
-export default MenuItem;
+export default MenuList;
