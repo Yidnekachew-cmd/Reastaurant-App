@@ -13,7 +13,7 @@ import {
 
 import { Navbar } from "./components";
 import "./App.css";
-import FindUs from "./container/FindUs/FindUs";
+import Contact from "./container/Contact/Contact";
 
 const App = () => (
 	<div>
@@ -25,7 +25,7 @@ const App = () => (
 		<Intro />
 		<Laurels />
 		<Gallery />
-		<FindUs />
+		<Contact />
 		<Footer />
 	</div>
 );
